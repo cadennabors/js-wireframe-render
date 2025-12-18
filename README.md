@@ -1,6 +1,6 @@
 # js-wireframe-render
 Fast JS wireframe renderer.
-[Online Demo](https://aladvs.github.io/OLD-LadEngine)
+[Online Demo](https://cadennabors.github.io/js-wireframe-render/)
 
 This is an efficient JS software renderer developed for fun, and to learn about 3d computer graphics.
 
